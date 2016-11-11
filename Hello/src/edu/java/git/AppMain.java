@@ -7,7 +7,9 @@ public class AppMain {
 		System.out.println("Hello, Git");
 		System.out.println("안녕하세요.");
         System.out.println("Test 3...");
+
         System.out.println("나도 버그 수정");
+        System.out.println("bug fix");
 	}
 
 }
